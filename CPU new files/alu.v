@@ -1,4 +1,4 @@
-//module for alu
+//module for alud
 module alu(DATA1, DATA2, RESULT,SELECT,BEQ);			
 	input [0:31]DATA1;
 	input [0:31]DATA2;
